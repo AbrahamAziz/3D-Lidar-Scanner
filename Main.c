@@ -1,8 +1,3 @@
-//2DX4 Mid Project DEMO
-//Date: March 28 2021
-//Student Name: Abraham Aziz
-//MAC ID: Aziza22
-//Student Number: 400261852
 //Distance LED = D4 (PF0)
 //Bus speed = 60MHz (PSYDIV = 7)
 
